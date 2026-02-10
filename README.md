@@ -1,36 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f4c75,100:3282b8&height=220&section=header&text=DevMrMohammad&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Python%20%7C%20Network%20%26%20Security&descSize=20&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f4c75,100:3282b8&height=220&section=header&text=DevMrMohammad&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Blue%20Team%20%26%20Security%20Dev&descSize=20&descAlign=center" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Python Developer | Network & Security Learner</h3>
+<h3 align="center">Python Developer | Blue Team | Security Scripting</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- Focused on **Python programming** and automation  
-- Learning **network fundamentals** and **network security**  
-- Interested in **Linux**, **backend development**, and **security scripting**  
-- Building skills step by step, with emphasis on real understanding
+- Python developer focused on **security automation**  
+- Practicing **Blue Team operations** and defensive security  
+- Writing small **security scripts and tools**  
+- Building skills in **network defense**, **incident response**, and **threat detection**
 
 ---
 
-### 🔐 Security Mindset
-- Writing small security-focused Python scripts  
-- Practicing safe testing and ethical experimentation  
-- Learning how networks operate — and how they fail
+### 🔐 Security Skills
+- Blue Team operations: monitoring, incident response, threat hunting  
+- Python scripting for security tools and automation  
+- Network fundamentals: TCP/IP, routing, protocols  
+- Linux administration and security
 
 ---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,django,mysql,postgres,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,powershell,wireshark" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powershell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1B3F95?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
@@ -46,15 +48,15 @@
 ---
 
 ### 📌 Featured Projects
-- [Python Security Scripts](https://github.com/DevMrMohammad/python-security) – مجموعه اسکریپت‌های امنیتی عملی  
-- [Network Lab Exercises](https://github.com/DevMrMohammad/network-lab) – تمرینات عملی شبکه با سناریو واقعی
+- [Security Scripts](https://github.com/DevMrMohammad/python-security) – Defensive and automation scripts  
+- [Network Lab Exercises](https://github.com/DevMrMohammad/network-lab) – Practical network security exercises  
 
 ---
 
 ### 🎯 Current Focus
-- Python security scripts  
-- Networking concepts (practical + theoretical)  
-- Understanding how systems break — and how to protect them
+- Blue Team operations and monitoring  
+- Security automation with Python  
+- Threat detection and incident response  
 
 ---
 
