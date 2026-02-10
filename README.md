@@ -8,18 +8,19 @@
 ---
 
 ### 👨‍💻 About Me
-- Python developer focused on **security automation**  
-- Practicing **Blue Team operations** and defensive security  
-- Writing small **security scripts and tools**  
-- Building skills in **network defense**, **incident response**, and **threat detection**
+I am a cybersecurity enthusiast focused on **Blue Team operations** and **security scripting**.  
+I write Python scripts for automation and defensive security, and practice **network defense**, **incident response**, and **threat detection**.  
+
+I enjoy learning step by step, understanding systems deeply, and improving my skills in **real-world security scenarios**.
 
 ---
 
 ### 🔐 Security Skills
 - Blue Team operations: monitoring, incident response, threat hunting  
-- Python scripting for security tools and automation  
+- Python scripting for security automation  
 - Network fundamentals: TCP/IP, routing, protocols  
-- Linux administration and security
+- Linux administration and security best practices  
+- Threat detection and incident analysis
 
 ---
 
@@ -50,6 +51,7 @@
 ### 📌 Featured Projects
 - [Security Scripts](https://github.com/DevMrMohammad/python-security) – Defensive and automation scripts  
 - [Network Lab Exercises](https://github.com/DevMrMohammad/network-lab) – Practical network security exercises  
+- [Blue Team Tools](https://github.com/DevMrMohammad/blue-team-tools) – Scripts and tools for monitoring and defense  
 
 ---
 
@@ -57,6 +59,7 @@
 - Blue Team operations and monitoring  
 - Security automation with Python  
 - Threat detection and incident response  
+- Improving network and system security  
 
 ---
 
