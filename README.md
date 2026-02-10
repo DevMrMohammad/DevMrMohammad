@@ -1,5 +1,6 @@
+<!-- Banner PNG at the top -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f4c75,100:3282b8&height=220&section=header&text=DevMrMohammad&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Blue%20Team%20%26%20Security%20Dev&descSize=20&descAlign=center" />
+  <img src="https://github.com/DevMrMohammad/DevMrMohammad/raw/main/A_digital_banner_image_features_the_username_and_p.png" alt="DevMrMohammad | Blue Team & Security Dev" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
