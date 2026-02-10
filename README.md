@@ -1,75 +1,99 @@
-<!-- Simple dark banner -->
+<!-- Blue Team Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1f1f,100:3a3a3a&height=120&section=header&text=DevMrMohammad&fontSize=40&fontColor=ffffff&desc=Blue%20Team%20%7C%20Security%20Developer&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:112240,100:1e3a8a&height=140&section=header&text=DevMrMohammad&fontSize=42&fontColor=ffffff&desc=Blue%20Team%20%7C%20Defensive%20Security%20Engineer&descAlignY=72" />
 </p>
 
-<h1 align="center">Hi, I'm Mohammad</h1>
-<h3 align="center">Blue Team | Defensive Security | Python Scripting</h3>
+<h1 align="center">Mohammad</h1>
+<h3 align="center">Blue Team • Cybersecurity • Python Security Developer</h3>
 
 ---
 
-## About Me
-I am a security-focused developer with a strong interest in **Blue Team operations** and **defensive cybersecurity**.  
-My work mainly involves **Python scripting for security**, automation, and analysis of systems and networks.
+## 👤 About Me
+I am a **Blue Team–focused cybersecurity developer** with a strong interest in **defensive security**,  
+**incident response**, and **security automation**.
 
-I focus on understanding how attacks work in order to **detect, defend, and respond** effectively.  
-I prefer building small, practical tools and learning through hands-on labs rather than copy-pasting solutions.
+My main focus is writing **Python-based security scripts**, analyzing systems and networks,  
+and understanding attacker techniques in order to **detect, defend, and respond** effectively.
+
+I value **clarity, realism, and hands-on practice** over flashy but shallow projects.
 
 ---
 
-## Security & Blue Team Focus
-- Defensive security mindset  
-- Log analysis and monitoring  
+## 🔵 Blue Team & Defensive Skills
+- Security monitoring and log analysis  
 - Incident response fundamentals  
-- Threat detection and basic threat hunting  
-- Network traffic analysis  
-- Linux system hardening basics  
+- Network traffic inspection and anomaly detection  
+- Linux system hardening and auditing  
+- Defensive scripting and automation  
+- Understanding attacker techniques for better defense  
 
 ---
 
-## Programming & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,powershell" />
+## 🐍 Programming & Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,powershell&theme=dark" />
 </p>
 
-- **Python** for security automation and scripting  
-- **Linux** as primary working environment  
-- **Bash & PowerShell** for system tasks  
-- **Git** for version control  
-- **Docker** for isolated labs and testing  
+- **Python** for security automation and analysis  
+- **Linux** (Kali Linux focused) as primary environment  
+- **Bash & PowerShell** for system-level tasks  
+- **Git** for structured and clean version control  
 
 ---
 
-## What I Build
-- Small Python security scripts  
-- Network and system analysis tools  
-- Practice labs for Blue Team concepts  
-- Documentation and notes for security learning  
-
----
-
-## Current Goals
-- Improve Blue Team practical skills  
-- Write cleaner and more effective security scripts  
-- Deepen understanding of network and system defense  
-- Build a solid foundation for professional cybersecurity work  
-
----
-
-## GitHub Stats
+## 🛡️ Security & Hacking Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMrMohammad&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMrMohammad&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Nmap-0047AB?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-0A1AFF?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-003366?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-001F3F?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLmap-0B3D91?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-002244?style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-0A2540?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 </p>
 
 ---
 
-## Contact
-<p align="left">
+## 🧠 What I Work On
+- Python security scripts  
+- Blue Team practice labs  
+- Network and system defense exercises  
+- Security notes and documentation  
+- Automation for defensive workflows  
+
+---
+
+## 🎯 Current Focus
+- Blue Team operational skills  
+- Log analysis and threat detection  
+- Security scripting with Python  
+- Building a strong defensive mindset  
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMrMohammad&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMrMohammad&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Contact
+<p align="center">
   <a href="https://github.com/DevMrMohammad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
